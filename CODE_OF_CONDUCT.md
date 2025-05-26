@@ -1,4 +1,4 @@
-#  Mergington High School Code of Conduct
+# Mergington High School Code of Conduct
 
 ## Our Pledge
 
