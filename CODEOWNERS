@@ -1,4 +1,4 @@
-# Core functionality - changes here should be rare!
+#Core functionality - changes here should be rare!
 /src/app.py                   @Myatty
 /src/backend/database.py      @Myatty
 /src/backend/routers/auth.py  @Myatty
